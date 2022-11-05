@@ -1,0 +1,62 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+  }
+
+  table {
+    
+    align-items: center;
+    justify-content: center;
+  }
+
+  table,
+  td,
+  th {
+    border: 1px solid #eee4e2;
+    border-left: 0;
+    border-right: 0;
+    border-collapse: collapse;
+  }
+
+td {
+    width: 150px;
+}
+
+th {
+    padding: 15px;
+}
+
+  td {
+    padding: 10px;
+  }
+
+  .best {
+    background-color: #f4f5f7;
+    color: #444547;
+  }
+
+  .skills {
+    background-color: bisque;
+  }
+
+  .hard {
+    background-color: #FED9D0;
+    color: #c56652;
+  }
+
+  .hardd {
+    background-color: #FEF1F1;
+  }
+
+  .soft {
+    background-color: #C9DEF3;
+    color: #2C6288;
+  }
+
+  .softt {
+    background-color: #F5F8FF;
+  }
+
+  tfoot {
+    border-bottom: none;
+  }
